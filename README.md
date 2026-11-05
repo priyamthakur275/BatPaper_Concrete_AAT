@@ -5,7 +5,6 @@ Guide: Dr. Roopashree S., B.M.S. College of Engineering (2026-27)
 
 Sources
 - Base paper: Aalimahmoody et al. (2021), Infrastructures 6(6), 80, https://www.mdpi.com/2412-3811/6/6/80 (DOI 10.3390/infrastructures6060080)
-- Supporting reference: Xiao et al. (2025), Frontiers in Materials 12, 1698248, https://doi.org/10.3389/fmats.2025.1698248
 - Dataset: UCI Concrete Compressive Strength, https://archive.ics.uci.edu/dataset/165/concrete+compressive+strength (DOI 10.24432/C5PK67, CC BY 4.0; donor I-Cheng Yeh)
 - data.csv is the UCI Concrete_Data.xls converted to CSV (1030 x 9), unmodified.
 
